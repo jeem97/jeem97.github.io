@@ -1,2 +1,6 @@
-# jeem97.github.io
-My User Repo
+# Juamanh Alsaif
+
+## Sources
+* [Normalize CSS].(https://necolas.github.io/normalize.css/)
+* [jQuery].(https://jquery.com/)
+
